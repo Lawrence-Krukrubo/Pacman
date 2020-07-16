@@ -36,3 +36,6 @@ This pacman project was created as a learning resource to teach Informed and Uni
 </p>
 
 For more details, contact the creators at this **[UC Berkley](http://ai.berkeley.edu/search.html)** site.
+<br>
+<h3>License:</h3>
+This Repository including all documents and files are covered under the MIT license.
