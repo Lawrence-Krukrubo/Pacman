@@ -34,4 +34,5 @@ After downloading the code (search.zip), unzipping it, and changing to the direc
 <p>
 This pacman project was created as a learning resource to teach Informed and Uninformed search AI algorithms. It is part of the Udacity Artificial Intelligence Nanodegree program and should only be used for learning and study without publishing answers in blogs or social media.
 </p>
-<p>For more details, contact the creators at [UC Berkley](http://ai.berkeley.edu/search.html)</p>
+
+For more details, contact the creators at this **[UC Berkley](http://ai.berkeley.edu/search.html)** site.
